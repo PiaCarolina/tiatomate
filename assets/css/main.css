@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 700;
+  color: #fff;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+body {
+  height: 100vh;
+  background-color: #fff;
+  font-family: "Raleway", sans-serif;
+}
+
+.nav {
+  padding-top: 1rem;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  background-color: #fff;
+}
+
+.nav__logo {
+  width: 120px;
+}
+
+.header1 {
+  background-color: #e56353;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  padding: 150px;
+}
+
+.header1__title {
+  font-weight: 200;
+}
+
+.header1__title--bold {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: #fff;
+}
+
+.section1 {
+  background-color: #91918d;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  padding: 50px;
+}
+
+.section1__img {
+  width: 80%;
+}
+
+.section1__title {
+  padding: 16px;
+  font-size: 18px;
+}
+
+.section1__text {
+  font-weight: 200;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.section2 {
+  background-color: #fff;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #686963;
+  padding: 50px;
+}
+
+.section2__img {
+  width: 80%;
+}
+
+.section2__title {
+  padding: 16px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.section2__text {
+  font-weight: 200;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.about {
+  background-color: #fff;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #686963;
+}
+
+.about__header {
+  background-color: #e56353;
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+  padding: 50px;
+}
+
+.about__img {
+  width: 30%;
+  padding-top: 3rem;
+}
+
+.about__title {
+  padding: 16px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.about__text {
+  font-weight: 200;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.contact {
+  background-color: #e56353;
+  text-align: center;
+  padding: 70px;
+  margin-top: 3rem;
+}
+
+.contact__title {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.contact__button {
+  font-weight: 700;
+  color: #686963;
+  font-size: 18px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 0;
+  padding: 5px 50px;
+  margin-top: 1rem;
+}
+
+.footer {
+  background-color: #686963;
+  text-align: center;
+}
+
+.footer__logo {
+  width: 170px;
+  padding: 2rem;
+}
+
+/*# sourceMappingURL=main.css.map */

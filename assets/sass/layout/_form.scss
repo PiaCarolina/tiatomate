@@ -1,0 +1,22 @@
+.contact {
+  background-color: $jelly-bean;
+  text-align: center;
+  padding: 70px;
+  margin-top: 3rem;
+}
+
+.contact__title {
+  font-weight: $bold;
+  font-size: $large;
+}
+
+.contact__button {
+  font-weight: $bold;
+  color: $granite-gray;
+  font-size: $medium;
+  border-radius: 20px;
+  background-color: $white;
+  border: 0;
+  padding: 5px 50px;
+  margin-top: 1rem;
+}

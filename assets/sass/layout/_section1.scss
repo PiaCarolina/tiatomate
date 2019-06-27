@@ -1,0 +1,24 @@
+.section1 {
+  background-color: $taupe-gray;
+  text-align: center;
+  font-family: $raleway;
+  color: $white;
+
+  padding: 50px;
+}
+
+.section1__img {
+ width: 80%;
+}
+
+.section1__title {
+  padding: 16px;
+  font-size: $medium;
+}
+
+.section1__text {
+  font-weight: $extra-light;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}

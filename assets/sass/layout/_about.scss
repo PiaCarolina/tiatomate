@@ -1,0 +1,32 @@
+.about {
+  background-color: $white;
+  text-align: center;
+  font-family: $raleway;
+  color: $granite-gray;
+}
+
+.about__header {
+  background-color: $jelly-bean;
+  color: $white;
+  font-size: $large;
+  font-weight: $bold;
+  padding: 50px;
+}
+
+.about__img {
+ width: 30%;
+ padding-top: 3rem;
+}
+
+.about__title {
+  padding: 16px;
+  font-weight: $bold;
+  font-size: $medium;
+}
+
+.about__text {
+  font-weight: $extra-light;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}

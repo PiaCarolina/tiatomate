@@ -1,0 +1,21 @@
+
+.header1 {
+  background-color: $jelly-bean;
+  text-align: center;
+  font-family: $raleway;
+  color: $white;
+  padding: 150px;
+}
+
+.header1__title{
+  font-weight: $extra-light;
+
+}
+
+
+.header1__title--bold {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+  color: $white;
+}
