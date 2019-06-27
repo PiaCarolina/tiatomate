@@ -7,10 +7,13 @@
 
 .about__header {
   background-color: $jelly-bean;
+  padding: 50px;
+}
+
+.about__header--bold {
   color: $white;
   font-size: $large;
   font-weight: $bold;
-  padding: 50px;
 }
 
 .about__img {

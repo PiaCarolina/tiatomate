@@ -125,10 +125,13 @@ body {
 
 .about__header {
   background-color: #e56353;
+  padding: 50px;
+}
+
+.about__header--bold {
   color: #fff;
   font-size: 50px;
   font-weight: 700;
-  padding: 50px;
 }
 
 .about__img {
